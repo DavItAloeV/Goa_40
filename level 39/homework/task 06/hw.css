@@ -1,0 +1,5 @@
+html {
+    background-image: url(image.png);
+    background: no-repeat;
+    background: cover;
+}

@@ -1,0 +1,30 @@
+#p00 {
+    text-decoration: underline;
+    font-size: large;
+    color: rgb(56, 23, 45);
+    color: antiquewhite;
+}
+#p01 {
+    text-decoration: dotted;
+    font-size: smaller;
+    color: rgb(5, 23, 45);
+    color: azure;
+}
+#p02 {
+    text-decoration: double;
+    font-size: small;
+    color: rgb(56, 2, 45);
+    color: aquamarine;
+}
+#p03 {
+    text-decoration: line-through;
+    font-size: medium;
+    color: rgb(56, 3, 5);
+    color: aliceblue;
+}
+#p04 {
+    text-decoration: overline;
+    font-size: larger;
+    color: rgb(6, 23, 4);
+    color: aqua;
+}
